@@ -12,9 +12,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a Systems Engineer with a Master's Degree in Software Engineering, entrepreneur and tech lover. I have more than 8 years of experience in software development and I never spend a day where I don't stay up to date with the latest advances in the field. With more than 5 years as a Security Analyst, I can say that my main competencies are web development, project architecture, consulting and continuous staff training.
+I'm a Systems Engineer with a Master's Degree in Software Engineering, entrepreneur and tech lover. I have more than 8 years of experience in software development and I never spend a day where I don't stay up to date with the latest advances in the field. I have always worked as a Full Stack developer and, although I also have experience developing iOS applications (4 apps developed), my goal is to specialize in the Frontend branch, where my priority has always been to offer the best experience to the final user without forgetting accessibility and attention to detail.
 
-<img alt="Github GIF" src="https://images.credly.com/size/224x224/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="right"/>
+<img alt="Github GIF" src="https://images.credly.com/size/192x192/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
