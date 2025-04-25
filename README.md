@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-    <img src="https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp" width="28px" alt="Welcome hand" /> Welcome! <img src="https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp" width="28px" alt="Welcome hand" />
+    <img src="https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp" width="28px" alt="Welcome hand" /> Welcome to my Github! <img src="https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp" width="28px" alt="Welcome hand" />
   </h1>
 </p>
 
@@ -10,13 +10,21 @@
   <a href="mailto:marcosklender@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
+<div align="center">
+  
+  `` Full-Stack Web Developer | iOS Developer Enthusiast (SwiftUI) | IT Security Analyst ``
+
+</div>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 I'm a Systems Engineer with a Master's Degree in Software Engineering, entrepreneur and tech lover. I have more than 8 years of experience in software development and I never spend a day where I don't stay up to date with the latest advances in the field.
 
 I have always worked as a Full Stack developer and, although I also have experience developing iOS apps, my goal is to specialize in the Frontend branch, where my priority has always been to offer the best experience without forgetting accessibility and attention to detail.
 
-<img alt="Github Foundations Badge" src="https://images.credly.com/size/208x208/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="right"/>
+<a href="https://www.credly.com/badges/422dab74-fb3b-4402-9c0e-a0658a2327fd/linked_in_profile" target="_blank">
+  <img alt="Github Foundations Badge" src="https://images.credly.com/size/208x208/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="right"/>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 
