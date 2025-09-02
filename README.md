@@ -5,13 +5,13 @@
 </p>
 
 <a href="https://www.credly.com/badges/422dab74-fb3b-4402-9c0e-a0658a2327fd/linked_in_profile" target="_blank">
-  <img alt="Github Foundations Badge" src="https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="right"/>
+  <img alt="Github Foundations Badge" src="https://images.credly.com/size/120x120/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="right"/>
 </a>
 
-<a href="https://www.linkedin.com/in/marcosklender/en/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:marcosklender@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/marcosklender/en/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:marcosklender@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-  `` Software Engineeer | Senior Frontend Developer | iOS Developer ``
+`` Software Engineeer | Senior Frontend Developer | iOS Developer ``
 
 ### 👨🏻‍💻 &nbsp;About Me
 
