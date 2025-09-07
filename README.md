@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/marcosklender/en/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:marcosklender@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-`` Software Engineeer | Senior Frontend Developer | iOS Developer ``
+`` Senior Frontend Developer | iOS Developer ``
 
 ### 👨🏻‍💻 &nbsp;About Me
 
