@@ -11,13 +11,17 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marcosklender/en/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:marcosklender@gmail.com)
 
-`` Senior Frontend Developer | iOS Developer ``
+`` Sic • Parvis • Magna ``
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a Systems Engineer with a Master's Degree in Software Engineering, entrepreneur and tech lover. I work as an Senior Frontend Developer at the Consejo Nacional Electoral, a public institution in charge of organizing, directing, monitoring and guaranteeing the electoral processes in Ecuador.
+Hi, I'm **Klender Carrasco**.
 
-I have more than 8 years of experience in Full Stack Development and I never spend a day where I don't stay up to date with the latest advances in the field. With more than 5 years as a Frontend Developer, I can say that my main competencies are web development, project architecture, consulting and continuous staff training. My priority is always to offer the best experience to the final user without forgetting accessibility and attention to detail.
+I'm a Systems Engineer with a Master's Degree in Software Engineering, an entrepreneur, and a tech lover.
+
+I work as a Senior Frontend Developer at [Consejo Nacional Electoral del Ecuador](https://www.cne.gob.ec/).
+
+I have over 8 years of software development experience, including more than 5 years mainly focused on frontend.
 
 ### 🛠 &nbsp;Languages, Frameworks and Tools
 
