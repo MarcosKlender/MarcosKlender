@@ -17,16 +17,16 @@
 
 I'm a Senior Frontend Developer (8+ years) with a recent MSc in Software Engineering.
 
-My passion is building high-quality, scalable, and accessible web applications. I believe in "software craftsmanship" and a TDD-first mindset.
+My passion is building high-quality, scalable, and accessible apps. I believe in "software craftsmanship" and a TDD-first mindset.
 
-My current role involves leading frontend architecture and mentoring colleagues (400+) at the [Consejo Nacional Electoral del Ecuador](https://www.cne.gob.ec/).
+My current role involves leading frontend architecture and mentoring colleagues (400+) at [Consejo Nacional Electoral del Ecuador](https://www.cne.gob.ec/).
 
 - 🔭 I’m currently building: Mission-critical apps with 99.9% uptime for Ecuador elections.
 - 🌱 I’m always learning: Design Patterns, Expo/React Native, and Motion library for animations.
 - 👨🏻‍💻 My core stack: **React**, **TypeScript**, **TDD (Vitest/Playwright)**, **Next**, and **Astro**.
 - 👯 I’m looking to collaborate on: Open-source projects that value clean code.
 - 🌎 I'm seeking: A challenging full-time frontend role with an international team.
-- 📫 How to reach me: marcosklender@gmail.com or on [LinkedIn](httpsv://linkedin.com/in/marcosklender).
+- 📫 How to reach me: marcosklender@gmail.com or [LinkedIn](https://linkedin.com/in/marcosklender).
 
 ### 🛠 &nbsp;Languages, Frameworks and Tools
 
