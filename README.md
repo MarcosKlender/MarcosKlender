@@ -13,15 +13,20 @@
 
 `` Sic • Parvis • Magna ``
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👋🏻 Hi, I'm **Klender Carrasco**.
 
-Hi, I'm **Klender Carrasco**.
+I'm a Senior Frontend Developer (8+ years) with a recent MSc in Software Engineering.
 
-I'm a Systems Engineer with a Master's Degree in Software Engineering, an entrepreneur, and a tech lover.
+My passion is building high-quality, scalable, and accessible web applications. I believe in "software craftsmanship" and a TDD-first mindset.
 
-I work as a Senior Frontend Developer at [Consejo Nacional Electoral del Ecuador](https://www.cne.gob.ec/).
+My current role involves leading frontend architecture and mentoring colleagues (400+) at the [Consejo Nacional Electoral del Ecuador](https://www.cne.gob.ec/).
 
-I have over 8 years of software development experience, including more than 5 years mainly focused on frontend.
+- 🔭 I’m currently building: Mission-critical apps with 99.9% uptime for Ecuador elections.
+- 🌱 I’m always learning: Design Patterns, Expo/React Native, and Motion library for animations.
+- 👨🏻‍💻 My core stack: **React**, **TypeScript**, **TDD (Vitest/Playwright)**, **Next**, and **Astro**.
+- 👯 I’m looking to collaborate on: Open-source projects that value clean code.
+- 🌎 I'm seeking: A challenging full-time frontend role with an international team.
+- 📫 How to reach me: marcosklender@gmail.com or on [LinkedIn](httpsv://linkedin.com/in/marcosklender).
 
 ### 🛠 &nbsp;Languages, Frameworks and Tools
 
