@@ -27,7 +27,6 @@ My current role involves leading frontend architecture and mentoring colleagues 
 - 🌱 I’m always learning: Design Patterns, Expo/React Native, and Motion library for animations.
 - 👨🏻‍💻 My core stack: **React**, **TypeScript**, **TDD (Vitest/Playwright)**, **Next**, and **Astro**.
 - 👯 I’m looking to collaborate on: Open-source projects that value clean code.
-- 🌎 I'm seeking: A challenging full-time frontend role with an international team.
 - 📫 How to reach me: marcosklender@gmail.com or [LinkedIn](https://linkedin.com/in/marcosklender).
 
 ### Current Projects
@@ -39,11 +38,11 @@ My current role involves leading frontend architecture and mentoring colleagues 
 - 💻 [WarpPortfolio](https://github.com/MarcosKlender/WarpPortfolio) - Open source web portfolio, inspired by Warp Terminal. Made with Astro 5.
 - 🎭 [Miduwind](https://github.com/MarcosKlender/Miduwind) - Newest open-source links page, customizable via JSON. Made with Astro 5 and Tailwind 4.
 - 🚐 [Larapark](https://github.com/MarcosKlender/Larapark) - Free web application for efficient parking lot management and operations.
-- 📦 [ITManager](https://github.com/MarcosKlender/ITManager) - Modern web app for equipment management, using the TALL Stack.
 
 ### Legacy Work
 
 - 🚗 [Parkeado](https://github.com/MarcosKlender/Parkeado) - A real-time web application for finding and reserving parking lots and spaces.
+- 📦 [ITManager](https://github.com/MarcosKlender/ITManager) - Modern web app for equipment management, using the TALL Stack.
 - 🌚 [Night.css](https://github.com/MarcosKlender/night.css) - A classless framework for a perfect dark mode!
 - 🕹️ [SteamReviews](https://github.com/MarcosKlender/SteamReviews) - Steam review creator made with Astro 4. Available in Spanish too!
 - 📄 [CountriesJSON](https://github.com/MarcosKlender/CountriesJSON) - An accurate list of all country codes with its flags in JSON format.
