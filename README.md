@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a Senior Web Engineer (8+ years) and Frontend Specialist with an MSc in Software Engineering.
+I'm a Senior Web Engineer with 8+ years of experience. My expertise lies in building high-quality, scalable applications using React, TypeScript, and Test-Driven Development (TDD). I also hold a Master’s Degree in Software Engineering.
 
 Building, maintaining, and scaling custom web apps and CMS architectures for diverse international clients at [Estes Media](https://estesmedia.com/).
 
