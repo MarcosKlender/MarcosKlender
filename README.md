@@ -33,13 +33,14 @@ Building, maintaining, and scaling custom web apps and CMS architectures for div
 - 🚀 [Pageness](https://www.pageness.com/) - A modern and blazing fast Link-in-Bio platform built for performance. The only one with a Lifetime offer!
 - 🏠 [GillispieTeam](https://www.gillispieteamrealestate.com/) - A minimalist and cutting-edge web app for Gillispie Team, an american real estate business.
 - 📐 [BrandveraEstimator](https://quote.brandveraconstruction.com/) - Mobile-first estimator form for kitchen and bathroom countertop projects.
-- ⛓️ [AstroLinkHub](https://github.com/MarcosKlender/AstroLinkHub/) - My most Popular open-source links page, customizable via JSON. Updated to Astro 5.
+- 🔗 [AstroLinkHub](https://github.com/MarcosKlender/AstroLinkHub/) - My most Popular open-source links page, customizable via JSON. Updated to Astro 5.
 - 💼 [NextPortfolio](https://www.marcosklender.com/) - Professional, modern, and responsive portfolio built with Next.js 16, TypeScript and Tailwind CSS.
 - 🌳 [ConsoleTree](https://github.com/MarcosKlender/ConsoleTree/) - Tree view to find, navigate and remove console statements from your project.
 - 🎭 [Miduwind](https://github.com/MarcosKlender/Miduwind/) - Newest open-source links page, customizable via JSON. Made with Astro 5 and Tailwind 4.
 
 ### Legacy Work
 
+- 🖥️ [DockDoorPro](https://ddpro.netlify.app/) - A macOS dock with profiles, live previews, media controls, and everything Apple left out. 
 - 🪨 [BrandveraStones](https://stones.brandveraconstruction.com/) - Minimalist stone catalog for Brandvera Construction. Made with Astro/Preact.
 - 💻 [WarpPortfolio](https://github.com/MarcosKlender/WarpPortfolio/) - Open source web portfolio, inspired by Warp Terminal (v1). Made with Astro 5.
 - 🚐 [Larapark](https://github.com/MarcosKlender/Larapark/) - Free web application for efficient parking lot management and operations.
@@ -47,7 +48,7 @@ Building, maintaining, and scaling custom web apps and CMS architectures for div
 - 📦 [ITManager](https://github.com/MarcosKlender/ITManager/) - Modern web app for equipment management, using the TALL Stack.
 - 🕹️ [SteamReviews](https://github.com/MarcosKlender/SteamReviews/) - Steam review creator made with Astro 4. Available in Spanish too!
 - 🌚 [Night.css](https://github.com/MarcosKlender/night.css/) - A classless framework for a perfect dark mode!
-- 📄 [CountriesJSON](https://github.com/MarcosKlender/CountriesJSON/) - An accurate list of all country codes with its flags in JSON format.
+- 🌎 [CountriesJSON](https://github.com/MarcosKlender/CountriesJSON/) - An accurate list of all country codes with its flags in JSON format.
 - 📹 [YouTubeCounters](https://github.com/MarcosKlender/YouTubeCounters/) - JavaScript app that retrieves your favorite YouTube channel statistics.
 - 🗳️ [RegistroMJRV](https://github.com/MarcosKlender/RegistroMJRV/) - Laravel app to manage member registration for Ecuador's 2024 Elections
 
