@@ -31,7 +31,7 @@ Building, maintaining, and scaling custom web apps and CMS architectures for div
 - 🦷 [OdontogramaApp](https://odontograma.app/) - A modern, interactive dental charting (odontogram) application built with React and TypeScript.
 - 🪪 [TagCard](https://tagcard.app/) - Minimalist and interactive ordering system for premium NFC business cards and smart tags.
 - 🚀 [Pageness](https://www.pageness.com/) - A modern and blazing fast Link-in-Bio platform built for performance. The only one with a Lifetime offer!
-- 🏠 [GillispieTeam](https://www.gillispieteamrealestate.com/) - A minimalist and cutting-edge web app for Gillispie Team, an american real estate business.
+- 🏠 [GillispieTeam](https://www.gillispieteamrealestate.com/) - A modern and cutting-edge web app for Gillispie Team, an american real estate business.
 - 📐 [BrandveraEstimator](https://quote.brandveraconstruction.com/) - Mobile-first estimator form for kitchen and bathroom countertop projects.
 - 🔗 [AstroLinkHub](https://github.com/MarcosKlender/AstroLinkHub/) - My most Popular open-source links page, customizable via JSON. Updated to Astro 5.
 - 💼 [NextPortfolio](https://www.marcosklender.com/) - Professional, modern, and responsive portfolio built with Next.js 16, TypeScript and Tailwind CSS.
