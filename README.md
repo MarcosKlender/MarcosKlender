@@ -1,57 +1,47 @@
-<p align="center">
-  <h1 align="center">
-    <img src="https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp" width="28px" alt="Welcome hand" /> Welcome, I'm Klender! <img src="https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp" width="28px" alt="Welcome hand" />
-  </h1>
-</p>
+# Hi, I'm Klender Carrasco <img src="https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp" width="28px" alt="Waving hand" />
 
 <a href="https://www.credly.com/badges/422dab74-fb3b-4402-9c0e-a0658a2327fd/linked_in_profile" target="_blank">
-  <img alt="Github Foundations Badge" src="https://images.credly.com/size/120x120/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="right"/>
+  <img alt="GitHub Foundations certification badge" src="https://images.credly.com/size/120x120/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" align="right" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marcosklender/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:marcosklender@gmail.com)
+**Senior Web Engineer** · MSc in Software Engineering · Remote, working with US teams
 
-`` Sic • Parvis • Magna ``
+[Portfolio](https://www.marcosklender.com/?utm_source=github&utm_medium=social) · [Resume](https://www.marcosklender.com/Resume_Klender_Carrasco.pdf) · [LinkedIn](https://www.linkedin.com/in/marcosklender/) · [Email](mailto:marcosklender@gmail.com)
 
 ### About Me
 
-I'm a Senior Web Engineer with 9+ years of experience. My expertise lies in building high-quality, scalable applications using React, TypeScript, and Test-Driven Development (TDD). I also hold a Master’s Degree in Software Engineering.
+I build fast, accessible web products with **React, TypeScript, Next.js and Astro**, tested with **Vitest and Playwright**, and I've been shipping to production for 8+ years.
 
-Building, maintaining, and scaling custom web apps and CMS architectures for diverse international clients at [Estes Media](https://estesmedia.com/).
+- **Now:** Senior Web Engineer at [Estes Media](https://www.linkedin.com/company/estesmedia/), building custom web apps and migrating client sites for US businesses (React, Astro, Next.js, PHP/WordPress).
+- **Before:** 6 years at Ecuador's National Electoral Council (CNE), building the internal systems for poll-worker registration and election logistics across 140+ precincts.
+- **On the side:** I ship my own products, contribute to open source, and self-host my stack (Docker, Traefik, Umami, Uptime Kuma, PocketBase).
 
-### What I'm Doing
+### Products and Client Work
 
-- 🌱 I’m always learning: Design Patterns, Expo/React Native, and Motion library for animations.
-- 👨🏻‍💻 My core stack: **React**, **TypeScript**, **TDD (Vitest/Playwright)**, **Next**, and **Astro**.
-- 👯 I’m looking to collaborate on: Open-source projects that value clean code.
-- 📫 How to reach me: marcosklender@gmail.com or [LinkedIn](https://linkedin.com/in/marcosklender/).
+- 🦷 [Odontograma](https://odontograma.app/?utm_source=github&utm_medium=social): Dental clinic SaaS with interactive odontogram, records and scheduling.
+- 🏠 [Gillispie Team](https://www.gillispieteamrealestate.com/): Production web app for a US real estate business.
+- 🚀 [Pageness](https://www.pageness.com/): Link-in-bio platform, designed, built and shipped end to end.
+- 🪪 [TagCard](https://tagcard.app/): Ordering system for premium NFC business cards and smart tags.
+- 📐 [Brandvera Estimator](https://quote.brandveraconstruction.com/): Countertop quote form with a live layout sketch for a US construction company.
+- 🖥️ [DockDoor Pro](https://ddpro.netlify.app/): Original website I designed and built for a pro macOS dock with profiles and live previews.
 
-### Current Projects
+### Open Source
 
-- 🦷 [OdontogramaApp](https://odontograma.app/) - A modern, interactive dental charting (odontogram) application built with React and TypeScript.
-- 🪪 [TagCard](https://tagcard.app/) - Minimalist and interactive ordering system for premium NFC business cards and smart tags.
-- 🚀 [Pageness](https://www.pageness.com/) - A blazing fast Link-in-Bio platform built for performance. The only one with a Lifetime offer!
-- 🏠 [GillispieTeam](https://www.gillispieteamrealestate.com/) - A modern and cutting-edge web app for Gillispie Team, an american real estate business.
-- 📐 [BrandveraEstimator](https://quote.brandveraconstruction.com/) - Mobile-first estimator form for kitchen and bathroom countertop projects.
-- 🔗 [AstroLinkHub](https://github.com/MarcosKlender/AstroLinkHub/) - My most Popular open-source links page, customizable via JSON. Updated to Astro 5.
-- 💼 [NextPortfolio](https://www.marcosklender.com/) - Professional, modern, and responsive portfolio built with Next.js 16, TypeScript and Tailwind CSS.
-- 🌳 [ConsoleTree](https://github.com/MarcosKlender/ConsoleTree/) - Tree view to find, navigate and remove console statements from your project.
-- 🎭 [Miduwind](https://github.com/MarcosKlender/Miduwind/) - Newest open-source links page, customizable via JSON. Made with Astro 5 and Tailwind 4.
+- 🔗 [AstroLinkHub](https://github.com/MarcosKlender/AstroLinkHub): Linktree alternative with 30+ stars, featured in the official Astro Themes.
+- 💻 [WarpPortfolio](https://github.com/MarcosKlender/WarpPortfolio): Portfolio inspired by Warp Terminal, shared by Warp's official X account.
+- 🌳 [ConsoleTree](https://github.com/MarcosKlender/ConsoleTree): VS Code extension to find and remove console statements.
+- 🎭 [Miduwind](https://github.com/MarcosKlender/Miduwind): Responsive links page, featured in the official Astro Themes.
+- 🚐 [Larapark](https://github.com/MarcosKlender/Larapark): Parking lot management system built with Laravel.
+- 🚗 [Parkeado](https://github.com/MarcosKlender/Parkeado): Real-time parking spot reservations, powered by a Spring Boot API.
+- 🌚 [night.css](https://github.com/MarcosKlender/night.css): Classless CSS framework for dark mode websites.
+- 🌎 [CountriesJSON](https://github.com/MarcosKlender/CountriesJSON): Country codes and flags in JSON.
+- 🗳️ [RegistroMJRV](https://github.com/MarcosKlender/RegistroMJRV) and 📦 [ITManager](https://github.com/MarcosKlender/ITManager): Public Laravel versions of systems I built at CNE.
+- 🤝 Contributions to [DockDoor](https://github.com/ejbills/DockDoor/pulls?q=is%3Apr+is%3Aclosed+author%3AMarcosKlender) and [midudev](https://github.com/midudev)'s community projects ([JSConf Spain](https://www.jsconf.es), [JavaScript 100](https://www.javascript100.dev)).
 
-### Legacy Work
+### Research
 
-- 🖥️ [DockDoorPro](https://ddpro.netlify.app/) - A macOS dock with profiles, live previews, media controls, and everything Apple left out. 
-- 🪨 [BrandveraStones](https://stones.brandveraconstruction.com/) - Minimalist stone catalog for Brandvera Construction. Made with Astro/Preact.
-- 💻 [WarpPortfolio](https://github.com/MarcosKlender/WarpPortfolio/) - Open source web portfolio, inspired by Warp Terminal (v1). Made with Astro 5.
-- 🚐 [Larapark](https://github.com/MarcosKlender/Larapark/) - Free web application for efficient parking lot management and operations.
-- 🚗 [Parkeado](https://github.com/MarcosKlender/Parkeado/) - A real-time web application for finding and reserving parking lots and spaces.
-- 📦 [ITManager](https://github.com/MarcosKlender/ITManager/) - Modern web app for equipment management, using the TALL Stack.
-- 🕹️ [SteamReviews](https://github.com/MarcosKlender/SteamReviews/) - Steam review creator made with Astro 4. Available in Spanish too!
-- 🌚 [Night.css](https://github.com/MarcosKlender/night.css/) - A classless framework for a perfect dark mode!
-- 🌎 [CountriesJSON](https://github.com/MarcosKlender/CountriesJSON/) - An accurate list of all country codes with its flags in JSON format.
-- 📹 [YouTubeCounters](https://github.com/MarcosKlender/YouTubeCounters/) - JavaScript app that retrieves your favorite YouTube channel statistics.
-- 🗳️ [RegistroMJRV](https://github.com/MarcosKlender/RegistroMJRV/) - Laravel app to manage member registration for Ecuador's 2024 Elections
+📄 [Hybrid Software Development Methodology Combining XP and SCRUM](https://www.marcosklender.com/Publication_Klender_Carrasco.pdf), published in Revista Mikarimin.
 
-### 🛠 &nbsp;Languages, Frameworks and Tools
+### 🛠 &nbsp;Toolkit
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,remix,astro,redux,pinia,vite,tailwind,sass,bootstrap,figma,svg,jest,vitest,nodejs,postman,git,github,vscode,docker,cloudflare,aws,azure,supabase,mongodb,mysql,postgres,pnpm,npm,yarn,bun&perline=12)](https://skillicons.dev)
+[![Toolkit](https://skillicons.dev/icons?i=js,ts,react,nextjs,remix,astro,redux,tailwind,sass,figma,nodejs,php,laravel,wordpress,supabase,swift,jest,vitest,docker,cloudflare,aws,azure,git,vite&perline=12)](https://www.marcosklender.com/?utm_source=github&utm_medium=social)
